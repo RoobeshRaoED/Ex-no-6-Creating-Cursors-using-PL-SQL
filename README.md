@@ -41,7 +41,7 @@ DECLARE
  23  /
 ```
 ## Output:
-![]()
-![]()
+![](6.1.1.jpeg)
+![](6.1.2.jpeg)
 ## Result:
 Hence cursor has been created using PL/SQL.
